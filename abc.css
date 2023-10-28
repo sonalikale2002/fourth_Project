@@ -1,0 +1,49 @@
+body
+{
+	background-image:url('s2.jpg');
+}
+#mymenu
+{
+	background-color:rgba(0,0,0,0.5);
+	color:white;
+	text-align:right;
+}
+#mymenu ul li
+{
+	display:inline-block;
+	padding:12px;
+}
+#mymenu ul li:hover
+{
+	color:black;
+	background:linear-gradient(to right,orange,white,green);
+	font-size:20px;
+}
+#data
+{
+	margin-top:200px;
+}
+table
+{
+	color:white;
+	background-color:rgba(0,0,0,0.5);
+	box-shadow:20px 20px 20px white;
+	font-size:30px;
+}
+.t1
+{
+	border-radius:20px;
+	font-size:20px;
+}
+.B
+{
+	width:80px;
+	height:40px;
+	background:linear-gradient(to right,red,black);
+	color:black;
+}
+.B:hover
+{
+	background:linear-gradient(to right,orange,white,green);
+	font-size:20px;
+}
